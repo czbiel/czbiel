@@ -8,7 +8,7 @@ Olá me chamo Gabriel de Souza Correia, sou formado em Análise e desenvolviment
 
 🦄 Linguagens: HTML, CSS, JavaScript.
 
-💼 Ferramentas: Visual studio code, intelliJ, Webstorm, Pycharm, Git e GitHub.
+💼 Ferramentas: Visual studio code, HTML, JAVASCRIPT, APRENDENDO SQL , APRENDENDO GitHub.
 
 
 
