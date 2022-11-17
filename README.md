@@ -1,5 +1,5 @@
 ### OLÁ REDE 👋
-##### IN PROGRESS 💪
+#### IN PROGRESS 💪
 
  <a>
   <img src="https://github.com/gszbiel/gszbiel/blob/Gabriel/77Bf.gif" width="240" height="180" aling="right"/></a>
