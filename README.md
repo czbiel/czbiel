@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**czbiel/czbiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Olá me chamo Gabriel de Souza Correia, sou formado em Análise e desenvolvimento de Sistemas e atuo como Instrutor de TI.
 
