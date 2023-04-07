@@ -11,13 +11,17 @@
 </div>
 
 
-
+<div>
 
 <div align="center">  
 <a href="https://www.instagram.com/gabiids" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
-
+  <div align="center">  
+<a href="https://br.linkedin.com/in/gabrieldesouzacorreia" target="_blank"><img src= "https://s2.glbimg.com/gJ2WZWBdrrGX0DgpAH7WuQY8k_I=/0x0:640x233/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/a/J/MmkRyqTCA7AD3DSz5DYA/2011-05-18-linkedin-logo-1.jpg" width="123px" height="30px"</a>
+</div>
+  
+  </div>
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
